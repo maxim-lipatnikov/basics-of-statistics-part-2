@@ -5,7 +5,7 @@ This repository contains my materials and an outline for part 2 of one of the mo
 
 ## Course Contents
 1. **Analyzing nominative data:**
-  - Pearson's distance, chi-square distribution and Pearson's chi-square test
+  - Pearson's distance, Chi-Square distribution, and Pearson's Chi-Square test
   - Analysis of contingency tables
   - Fisher's exact test
 2. **Logistic regression and non-parametric methods:**
@@ -22,7 +22,7 @@ This repository contains my materials and an outline for part 2 of one of the mo
   - Principal Component Analysis (PCA)
 
 ## Tech Stack
-1. Python with libraries (pandas, numpy, statsmodels, sklearn, scipy, matplotlib, seaborn, lifelines)
+1. Python with libraries (pandas, numpy, statsmodels, sklearn, scipy, matplotlib, seaborn)
 2. Jupyter Lab
 
 ## Results
